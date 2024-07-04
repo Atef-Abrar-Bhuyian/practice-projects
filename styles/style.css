@@ -13,7 +13,6 @@
     /* background-color: rgb(73, 13, 13); */
     padding: 100px 200px;
     width: 600px;
-    
     /* margin-left: auto; */
     margin-right: auto;
 }
@@ -30,12 +29,12 @@ h2{
     text-align: center;
 }
 span{
-    color:brown;
+    color:brown;            
 }
 p{
     width: 110%;
     text-align: justify;
-    font-weight:900;
+    font-size: large;
     padding-top: 10px;
 }
 .btn-parent{
@@ -59,7 +58,8 @@ img{
     border-radius: 500px;
 }
 .self-pic{
-    margin: 12px auto;
+    margin: 12px;
+    margin-right: auto;
 }
 
 .hire-me-btn:hover{
